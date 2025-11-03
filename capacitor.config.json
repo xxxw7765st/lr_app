@@ -1,0 +1,8 @@
+{
+  "appId": "org.dpdns.learningroom666.app",
+  "appName": "lr_app",
+  "webDir": "www",
+  "server": {
+     "url": "https://the-learning-room.netlify.app"
+   }
+}
